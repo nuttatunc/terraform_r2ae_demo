@@ -18,6 +18,8 @@ Happy coding!
 
 git clone https://github.com/nuttatunc/terraform_r2ae_demo.git
 
+cd terraform_r2ae_demo
+
 chmod +x terraform_install.sh
 
 ./terraform_install.sh
@@ -29,5 +31,4 @@ aws configure
 
 mkdir r2ae_terraform
 
-cd r2ae_terraform
 
