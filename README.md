@@ -29,6 +29,4 @@ terraform --version
 
 aws configure
 
-mkdir r2ae_terraform
-
 
