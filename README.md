@@ -12,3 +12,16 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+-----------------------------------------------------------------
+
+chmod +x terraform_install.sh
+./terraform_install.sh
+terraform --version
+
+
+git clone https://github.com/nuttatunc/terraform_r2ae_demo.git
+aws configure
+
+mkdir r2ae_terraform
+cd r2ae_terraform
