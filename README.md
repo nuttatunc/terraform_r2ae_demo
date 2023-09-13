@@ -15,14 +15,15 @@ Happy coding!
 
 -----------------------------------------------------------------
 
+
+git clone https://github.com/nuttatunc/terraform_r2ae_demo.git
+
 chmod +x terraform_install.sh
 
 ./terraform_install.sh
 
 terraform --version
 
-
-git clone https://github.com/nuttatunc/terraform_r2ae_demo.git
 
 aws configure
 
